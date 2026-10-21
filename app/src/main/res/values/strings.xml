@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shinigami</string>
+    <string name="retry">Retry</string>
+
+    <string name="error_offline_title">No internet connection</string>
+    <string name="error_offline_message">Your device appears to be offline. Check your connection and try again.</string>
+
+    <string name="error_host_title">Can\'t find the website</string>
+    <string name="error_host_message">The website\'s address could not be resolved. This can be a network or DNS problem, or the website may be unavailable.</string>
+
+    <string name="error_unreachable_title">Website not responding</string>
+    <string name="error_unreachable_message">Your device seems to be online, but the website did not respond in time. It may be down or busy.</string>
+
+    <string name="error_ssl_title">Secure connection failed</string>
+    <string name="error_ssl_message">A secure (HTTPS) connection to the website could not be established, so the page was not loaded.</string>
+
+    <string name="error_generic_title">Couldn\'t load the page</string>
+    <string name="error_generic_message">Something went wrong while loading the website. Please try again.</string>
+</resources>
